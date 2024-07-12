@@ -1,0 +1,211 @@
+{
+    "maths": [
+        {
+          "question": "What is the value of π (pi) correct to two decimal places?",
+          "options": ["3.12", "3.14", "3.16", "3.18"],
+          "correctAnswer": "3.14"
+        },
+        {
+          "question": "What is the sum of angles in a triangle?",
+          "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+          "correctAnswer": "180 degrees"
+        },
+        {
+          "question": "What is the square root of 144?",
+          "options": ["10", "12", "14", "16"],
+          "correctAnswer": "12"
+        },
+        {
+          "question": "What is the value of 'x' in the equation 2x + 5 = 15?",
+          "options": ["4", "5", "6", "7"],
+          "correctAnswer": "5"
+        },
+        {
+          "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
+          "options": ["30 cm²", "35 cm²", "40 cm²", "45 cm²"],
+          "correctAnswer": "40 cm²"
+        },
+        {
+          "question": "What is the value of 5! (5 factorial)?",
+          "options": ["10", "20", "60", "120"],
+          "correctAnswer": "120"
+        },
+        {
+          "question": "What is the next number in the sequence: 1, 1, 2, 3, 5, ...?",
+          "options": ["6", "7", "8", "10"],
+          "correctAnswer": "8"
+        },
+        {
+          "question": "What is the perimeter of a square with side length 12 cm?",
+          "options": ["24 cm", "36 cm", "48 cm", "60 cm"],
+          "correctAnswer": "48 cm"
+        },
+        {
+          "question": "Simplify: (3x + 2y) - (x - y)",
+          "options": ["2x + 3y", "2x + y", "4x + 3y", "4x + y"],
+          "correctAnswer": "2x + 3y"
+        },
+        {
+          "question": "What is the value of 2⁴?",
+          "options": ["8", "16", "32", "64"],
+          "correctAnswer": "16"
+        }
+      ],
+    "biology": [
+        {
+          "question": "Which organelle is known as the powerhouse of the cell?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Lysosome"],
+          "correctAnswer": "Mitochondria"
+        },
+        {
+          "question": "What is the main component of the cell membrane?",
+          "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+          "correctAnswer": "Lipids"
+        },
+        {
+          "question": "Which process produces oxygen in plants?",
+          "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+          "correctAnswer": "Photosynthesis"
+        },
+        {
+          "question": "What is the genetic material of most organisms?",
+          "options": ["RNA", "DNA", "Proteins", "Lipids"],
+          "correctAnswer": "DNA"
+        },
+        {
+          "question": "Which blood cells are responsible for fighting infections?",
+          "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"],
+          "correctAnswer": "White blood cells"
+        },
+        {
+          "question": "What is the functional unit of the kidney?",
+          "options": ["Neuron", "Nephron", "Alveolus", "Liver lobule"],
+          "correctAnswer": "Nephron"
+        },
+        {
+          "question": "Which part of the brain controls balance and coordination?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+          "correctAnswer": "Cerebellum"
+        },
+        {
+          "question": "What is the basic unit of life?",
+          "options": ["Tissue", "Organ", "Cell", "Organism"],
+          "correctAnswer": "Cell"
+        },
+        {
+          "question": "Which molecule carries oxygen in red blood cells?",
+          "options": ["Hemoglobin", "Chlorophyll", "Insulin", "Collagen"],
+          "correctAnswer": "Hemoglobin"
+        },
+        {
+          "question": "What is the process by which plants lose water vapor through their leaves?",
+          "options": ["Photosynthesis", "Respiration", "Transpiration", "Osmosis"],
+          "correctAnswer": "Transpiration"
+        }
+      ],
+    "chemistry": [
+        {
+          "question": "Which element has the chemical symbol 'H'?",
+          "options": ["Helium", "Hydrogen", "Hafnium", "Holmium"],
+          "correctAnswer": "Hydrogen"
+        },
+        {
+          "question": "What is the chemical formula for water?",
+          "options": ["H₂O₂", "H₂O", "H₃O", "HOH"],
+          "correctAnswer": "H₂O"
+        },
+        {
+          "question": "Which gas is produced during photosynthesis?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+          "correctAnswer": "Oxygen"
+        },
+        {
+          "question": "Which metal is liquid at room temperature?",
+          "options": ["Aluminum", "Copper", "Mercury", "Silver"],
+          "correctAnswer": "Mercury"
+        },
+        {
+          "question": "What is the pH scale used to measure?",
+          "options": ["Temperature", "Acidity", "Density", "Pressure"],
+          "correctAnswer": "Acidity"
+        },
+        {
+          "question": "What is the chemical symbol for iron?",
+          "options": ["Ir", "Fe", "In", "I"],
+          "correctAnswer": "Fe"
+        },
+        {
+          "question": "Which gas is commonly known as laughing gas?",
+          "options": ["Nitrous oxide", "Carbon monoxide", "Sulfur dioxide", "Methane"],
+          "correctAnswer": "Nitrous oxide"
+        },
+        {
+          "question": "What is the process of a substance changing from a solid directly to a gas?",
+          "options": ["Sublimation", "Evaporation", "Condensation", "Deposition"],
+          "correctAnswer": "Sublimation"
+        },
+        {
+          "question": "Which chemical element is essential for all known forms of life on Earth?",
+          "options": ["Carbon", "Gold", "Neon", "Uranium"],
+          "correctAnswer": "Carbon"
+        },
+        {
+          "question": "What is the process of splitting water molecules into hydrogen and oxygen using electricity?",
+          "options": ["Fusion", "Combustion", "Electrolysis", "Decomposition"],
+          "correctAnswer": "Electrolysis"
+        }
+      ],
+    "physics": [
+        {
+          "question": "Which of these is a fundamental force of nature?",
+          "options": ["Friction", "Tension", "Gravity", "Inertia"],
+          "correctAnswer": "Gravity"
+        },
+        {
+          "question": "What is the SI unit of electric current?",
+          "options": ["Ampere", "Watt", "Volt", "Ohm"],
+          "correctAnswer": "Ampere"
+        },
+        {
+          "question": "Which scientist proposed the theory of relativity?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+          "correctAnswer": "Albert Einstein"
+        },
+        {
+          "question": "What is the unit of measurement for force?",
+          "options": ["Newton", "Joule", "Watt", "Volt"],
+          "correctAnswer": "Newton"
+        },
+        {
+          "question": "What is the acceleration due to gravity on the surface of the Earth (approximately)?",
+          "options": ["9.81 m/s²", "5.67 m/s²", "6.63 m/s²", "7.82 m/s²"],
+          "correctAnswer": "9.81 m/s²"
+        },
+        {
+          "question": "Which of these is a property of an object in motion that resists changes in its state of motion?",
+          "options": ["Inertia", "Momentum", "Velocity", "Acceleration"],
+          "correctAnswer": "Inertia"
+        },
+        {
+          "question": "What is the principle that states the total electric charge of an isolated system remains constant over time?",
+          "options": ["Ohm's Law", "Coulomb's Law", "Kirchhoff's Law", "Conservation of Charge"],
+          "correctAnswer": "Conservation of Charge"
+        },
+        {
+          "question": "Which type of energy is stored in an object due to its position?",
+          "options": ["Kinetic energy", "Potential energy", "Mechanical energy", "Thermal energy"],
+          "correctAnswer": "Potential energy"
+        },
+        {
+          "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+          "options": ["Diffraction", "Refraction", "Reflection", "Dispersion"],
+          "correctAnswer": "Refraction"
+        },
+        {
+          "question": "Which law of thermodynamics states that energy cannot be created or destroyed, only transformed or transferred?",
+          "options": ["First Law", "Second Law", "Third Law", "Zeroth Law"],
+          "correctAnswer": "First Law"
+        }
+      ]      
+  }
+  
